@@ -17,3 +17,8 @@ h2 {
   font-family: monospace;
   color: cadetblue;
 }
+
+body.darkmode {
+  background-color: black;
+  color: white;
+}
