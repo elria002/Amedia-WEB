@@ -1,0 +1,19 @@
+body {
+  font-family: system-ui;
+  margin: 2rem;
+}
+
+
+h1 {
+  font-family: monospace;
+  font-size: 4rem;
+  border-bottom: 10px solid steelblue;
+  color: steelblue;
+}
+
+
+h2 {
+  font-size: 2rem;
+  font-family: monospace;
+  color: cadetblue;
+}
